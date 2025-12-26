@@ -1,0 +1,25 @@
+##############################################
+# Coloring Map For （BM25S2021-1）
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM25S2021_1	KEYWORD1
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+readTemperature	KEYWORD2
+readHumidity	KEYWORD2
+getFWVer	KEYWORD2
+getPID	KEYWORD2
+getSN	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+BM25S2021_1_ADDR	LITERAL1
+READ_OK	LITERAL1
+READ_ERROR	LITERAL1
+ERROR_NOACK	LITERAL1
+ERROR_TIMEOUT	LITERAL1
+ERROR_CHECKSUM	LITERAL1
